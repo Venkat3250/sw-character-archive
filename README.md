@@ -9,20 +9,15 @@ dossier-style modal on click.
 
 ## Live demo & video
 
-- Hosted app: _add your Netlify/Vercel/Cloudflare Pages link here_
-- Walkthrough video: _add your GDrive/YouTube link here_
+- Hosted app: https://sw-character-archive.vercel.app/
+- Walkthrough video: ???
 
 ## Screenshots
-
-_Add 2–3 screenshots here once you've run the app locally: the grid view, a card hover state, and the character modal._
-
 ```
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9f142b71-68ab-4140-bbf8-3273755fe265" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc4f9103-2def-4f3c-8abf-4fe0eee4e857" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/22243b82-0318-47bb-a71e-e9c9bc721aba" />
 
-![Grid view](./docs/screenshot-grid.png)
-![Character modal](./docs/screenshot-modal.png)
 ```
 
 ## Features
@@ -118,4 +113,4 @@ The app is a static Vite build (`npm run build` → `dist/`), so it deploys
 as-is to Netlify, Vercel, or Cloudflare Pages with zero configuration:
 
 - **Vercel**: import the repo, framework preset "Vite", defaults are fine.
-- **Netlify**: build command `npm run build`, publish directory `dist`.
+- **Netlify**: build command `npm run build`, publish directory `dist`.AAAAAAAAAAAAAAAAAAAAAAA
