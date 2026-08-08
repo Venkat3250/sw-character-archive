@@ -5,12 +5,12 @@ characters via a public API, built as a "records terminal" — a data-archive
 UI where each character card is color-coded by species and opens into a
 dossier-style modal on click.
 
-> Rename this repo to `tsx-mern-<date_of_submission>` before you push (e.g. `tsx-mern-05Aug2026`), per the assignment's submission instructions.
+>`tsx-mern-05Aug2026`
 
 ## Live demo & video
 
 - Hosted app: https://sw-character-archive.vercel.app/
-- Walkthrough video: ???
+- Walkthrough video: https://youtu.be/hemsv5U0gsk
 
 ## Screenshots
 ```
